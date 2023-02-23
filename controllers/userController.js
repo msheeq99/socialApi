@@ -2,9 +2,13 @@ const { User, Thought } = require("../models");
 
 module.exports = {
   getUser(req, res) {
+    console.log("getUser");
     User.find({})
       .then((user) => res.json(user))
-      .catch((err) => res.status(500).json(err));
+      .catch((err) => {
+        console.log(err);
+        res.status(500).json(err);
+      });
   },
 
   getSingleUser(req, res) {
