@@ -4,11 +4,8 @@
 - [User Story](#user-story)
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Walkthrough](#walkthrough)
+- [Links](#links)
 
 ## User Story:
 AS A social media startup
@@ -29,3 +26,8 @@ This is a social network api back-end database created in the UW Coding Bootcamp
 - Ensure moment is installed
 
 ## Walkthrough for all routes:
+
+
+## Links
+
+https://github.com/msheeq99/socialApi/
