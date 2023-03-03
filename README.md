@@ -28,4 +28,4 @@ This is a social network api back-end database created in the UW Coding Bootcamp
 - Ensure mongoose is installed
 - Ensure moment is installed
 
-## Usage:
+## Walkthrough for all routes:
