@@ -26,6 +26,7 @@ This is a social network api back-end database created in the UW Coding Bootcamp
 - Ensure moment is installed
 
 ## Walkthrough for all routes:
+[scrnli_03_03_2023_22-25-12.webm](https://user-images.githubusercontent.com/113865888/222842619-9f483702-a5a1-4abb-8a63-549176ad40f8.webm)
 
 
 ## Links
